@@ -1,3 +1,6 @@
 [submodule "italian-maps-shapefiles"]
 	path = italian-maps-shapefiles
 	url = git@github.com:sramazzina/italian-maps-shapefiles.git
+[submodule "geojson-italy"]
+	path = geojson-italy
+	url = git@github.com:openpolis/geojson-italy.git
