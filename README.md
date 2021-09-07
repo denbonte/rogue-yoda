@@ -4,8 +4,8 @@ Description and contributors go here.
 
 ## To-Dos
 
-- [ ] scrape data from the [no-gp webpage](https://nogreenpassdocenti.wordpress.com/)
-- [ ] save into a Pandas DataFrame
+- [x] scrape data from the [no-gp webpage](https://nogreenpassdocenti.wordpress.com/)
+- [x] save into a Pandas DataFrame
 - [ ] Map uni to region and area
 - [ ] Plot on the regional map (and area map)
 
