@@ -1,6 +1,6 @@
 # Mining "No Green Pass Docenti" Data  💉 😷 :it:
 
-![Firmatari](assets/firmatari.png)
+![Firmatari](assets/firmatari_map.png)
 
 ## To-Dos
 
