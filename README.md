@@ -11,6 +11,8 @@ Description and contributors go here.
 
 ## Resources
 
+Data on Italian University Employees from: [USTAT MIUR (2019)](http://ustat.miur.it/dati/didattica/italia/atenei#tabriepilogo)
+
 Table scraping code adapted from: [Scrape HTML Tables](https://towardsdatascience.com/web-scraping-html-tables-with-python-c9baba21059)
 
 [Plotly Maps](https://plotly.com/python/maps/)
