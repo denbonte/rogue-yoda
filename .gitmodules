@@ -1,0 +1,3 @@
+[submodule "italian-maps-shapefiles"]
+	path = italian-maps-shapefiles
+	url = git@github.com:sramazzina/italian-maps-shapefiles.git
