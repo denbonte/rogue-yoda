@@ -1,0 +1,22 @@
+{
+	"PIEMONTE" : "Piemonte",
+    "VALLE D'AOSTA/VALLÉE D'AOSTE\rVALLE D'AOSTA'VALLÉE D'AOSTE" : "Valle d'Aosta",
+	"LOMBARDIA" : "Lombardia",
+	"TRENTINO-ALTO ADIGE/SUDTIROL" : "Trentino Alto Adige",
+	"VENETO" : "Veneto",
+	"FRIULI VENEZIA GIULIA" : "Friuli Venezia Giulia",
+	"LIGURIA" : "Liguria",
+	"EMILIA-ROMAGNA" : "Emilia Romagna",
+	"TOSCANA" : "Toscana",
+	"UMBRIA" : "Umbria",
+	"MARCHE" : "Marche",
+	"LAZIO" : "Lazio",
+	"ABRUZZO" : "Abruzzo",
+	"MOLISE" : "Molise",
+	"CAMPANIA" : "Campania",
+	"PUGLIA" : "Puglia",
+	"BASILICATA" : "Basilicata",
+	"CALABRIA" : "Calabria",
+	"SICILIA" : "Sicilia",
+	"SARDEGNA" : "Sardegna"
+}
