@@ -11,5 +11,6 @@ Description and contributors go here.
 
 ## Resources
 
-[Scrape HTML Tables](https://towardsdatascience.com/web-scraping-html-tables-with-python-c9baba21059)
+Table scraping code adapted from: [Scrape HTML Tables](https://towardsdatascience.com/web-scraping-html-tables-with-python-c9baba21059)
+
 [Plotly Maps](https://plotly.com/python/maps/)
