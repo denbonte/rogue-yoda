@@ -1,20 +1,22 @@
 # 🥑
 
-Description and contributors go here.
+Special thanks to [some friends that I still need to ask if they are ok appearing here]
 
 ## To-Dos
 
-- [x] scrape data from the [no-gp webpage](https://nogreenpassdocenti.wordpress.com/)
+First dummy version:
+
+- [x] scrape data from the no-gp webpage
 - [x] save into a Pandas DataFrame
 - [x] rough (manual) mapping between uni and region
-- [ ] Plot on the regional map (and area map)
+- [x] Plot on the regional map
 
-## Resources
+## Data Sources
 
-Data on Italian University Employees from: [USTAT MIUR (2019)](http://ustat.miur.it/dati/didattica/italia/atenei#tabriepilogo)
+No green pass signatures Data from: [nogreenpassdocenti.wordpress](https://nogreenpassdocenti.wordpress.com/s/)
 
-Table scraping code adapted from: [Scrape HTML Tables](https://towardsdatascience.com/web-scraping-html-tables-with-python-c9baba21059)
+Data on Italian eniversities employees from: [USTAT MIUR (2019)](http://ustat.miur.it/dati/didattica/italia/atenei#tabriepilogo)
 
-[Plotly Maps](https://plotly.com/python/maps/)
+Data on Italian population per region from: [Tuttitalia.it - ISTAT (2021)](https://www.tuttitalia.it/regioni/popolazione/)
 
-[Python's Geocoding](https://towardsdatascience.com/pythons-geocoding-convert-a-list-of-addresses-into-a-map-f522ef513fd6)
+Map data on Italian regions: [sramazzina/italian-maps-shapefiles](https://github.com/sramazzina/italian-maps-shapefiles)
