@@ -1,6 +1,6 @@
 # Mining "No Green Pass Docenti" Data  💉 😷 :it:
 
-![Firmatari](assets/firmatari.png)
+![Firmatari](assets/cover.png)
 
 Visualising regional data and other analyses from the "No Green Pass Docenti" website data.
 
